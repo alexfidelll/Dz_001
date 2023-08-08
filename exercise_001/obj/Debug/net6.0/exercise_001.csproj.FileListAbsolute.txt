@@ -1,0 +1,15 @@
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.csproj.AssemblyReference.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.AssemblyInfoInputs.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.AssemblyInfo.cs
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.csproj.CoreCompileInputs.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\bin\Debug\net6.0\exercise_001.exe
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\bin\Debug\net6.0\exercise_001.deps.json
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\bin\Debug\net6.0\exercise_001.runtimeconfig.json
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\bin\Debug\net6.0\exercise_001.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\bin\Debug\net6.0\exercise_001.pdb
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\refint\exercise_001.dll
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.pdb
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\exercise_001.genruntimeconfig.cache
+C:\Users\Kiss-ya\OneDrive\Desktop\Учеба\dz001\exercise_001\obj\Debug\net6.0\ref\exercise_001.dll
